@@ -67425,7 +67425,7 @@ A.o3.prototype={
 ad(){return new A.QN(B.k)}}
 A.QN.prototype={
 J(a){var s=null,r=t.p
-return A.oE(A.nb(A.a([A.hp(s,A.d9(B.c1,s,s,s),new A.agu(a),s,s)],r),s,!0,B.b_,s,1,s,s,0,!1,s,!1,s,new A.cc(s,s,s,s,s,B.n,s,s),s,s,!0,s,s,s,s,s,A.cn("Manuali Istruzioni V2",s,s,s,A.cv(s,s,B.n,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,1,s),s,new A.dp(B.cB,A.fJ(A.a([A.i3(8),A.aQ(s,A.cn("Clicca sul prodotto per scaricare il pdf.",s,s,s,A.cv(s,s,s,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.j,s,s,s,s,s,s,new A.b3(10,0,10,0),s,s,s),A.i3(16),new A.ki(1,B.cC,A.IK(new A.agv(),6),s)],r),B.bs,s,B.ac,B.M),s),new A.iY(s))}}
+return A.oE(A.nb(A.a([A.hp(s,A.d9(B.c1,s,s,s),new A.agu(a),s,s)],r),s,!0,B.b_,s,1,s,s,0,!1,s,!1,s,new A.cc(s,s,s,s,s,B.n,s,s),s,s,!0,s,s,s,s,s,A.cn("Manuali Web V3",s,s,s,A.cv(s,s,B.n,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,1,s),s,new A.dp(B.cB,A.fJ(A.a([A.i3(8),A.aQ(s,A.cn("Clicca sul prodotto per scaricare il pdf.",s,s,s,A.cv(s,s,s,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.j,s,s,s,s,s,s,new A.b3(10,0,10,0),s,s,s),A.i3(16),new A.ki(1,B.cC,A.IK(new A.agv(),6),s)],r),B.bs,s,B.ac,B.M),s),new A.iY(s))}}
 A.agu.prototype={
 $0(){A.dC(this.a).lF(new A.agt())},
 $S:0}
