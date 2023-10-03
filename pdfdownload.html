@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download PDF</title>
+</head>
+<body>
+    <h1>Download PDF</h1>
+
+    <script>
+        function downloadPDF() {
+            var urlParams = new URLSearchParams(window.location.search);
+            var pdfLink = urlParams.get('pdf_link');
+            
+            if (pdfLink) {
+                var a = document.createElement('a');
+                a.href = pdfLink;
+                a.download = 'file.pdf'; // Nome del file quando viene scaricato
+                a.style.display = 'none';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            } else {
+                alert("Parametro 'pdf_link' non fornito nell'URL.");
+            }
+        }
+
+        // Chiamare la funzione di download al caricamento della pagina
+        window.onload = downloadPDF;
+    </script>
+</body>
+</html>
+
+
+
