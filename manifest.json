@@ -1,11 +1,11 @@
 {
-    "name": "Nyx Help",
-    "short_name": "Nyx Help",
+    "name": "nyx_help",
+    "short_name": "nyx_help",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "App di supporto per l'installazione di prodotti Nyx Tende.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
